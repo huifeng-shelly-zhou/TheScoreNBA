@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NBA</string>
+
+    <string name="nba_team">NBA Teams</string>
+    <string name="action_sort_name">Sort by Name</string>
+    <string name="action_sort_wins">Sort by Wins</string>
+    <string name="action_sort_losses">Sort by Losses</string>
+    <string name="wins">Wins:</string>
+    <string name="losses">Losses:</string>
+    <string name="players">Players:</string>
+</resources>
